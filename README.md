@@ -1,16 +1,21 @@
-### Hi there 👋
+Hola mi nombre es Sebastian 👋
 
-<!--
-**1NE0/1NE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Sobre mi</h3>
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Abhigyan Tripathi";
+    self.username = "abhigyantrips";
+    self.location = "Mumbai, India";
+    self.twitter = "@abhigyantrips";
+    self.web = "https://abhigyantrips.dev";
+  
+  def __str__(self):
+    return self.name
 
-Here are some ideas to get you started:
+if __name__ == '__main__':
+    me = AbhigyanTrips()
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
