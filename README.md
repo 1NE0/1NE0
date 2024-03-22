@@ -1,4 +1,4 @@
-Hola mi nombre es Sebastian 👋
+<h1 align="center" >Hola mi nombre es Sebastian 👋</h1>
 
 <h3 align="left">Sobre mi</h3>
 
